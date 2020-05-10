@@ -5,3 +5,5 @@ const regex = /fire+/gi
 
 console.log(text1.match(regex))
 console.log(text2.match(regex))
+
+console.log('123456789'.match(/\d+/gi))
